@@ -1,0 +1,15 @@
+#cardModBtn {
+    display: none;
+}
+
+.box {
+    background-color: rgba(255, 166, 0, 0.185);
+}
+
+#detailCard {
+    width: 50%;
+}
+
+.pino {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
